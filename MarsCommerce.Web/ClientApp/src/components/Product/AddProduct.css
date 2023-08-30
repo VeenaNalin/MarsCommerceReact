@@ -1,0 +1,10 @@
+﻿body {
+}
+
+.image-size img {
+    width: 170px;
+    height: 150px;
+}
+.custom-image-name {
+    color: red;
+}

@@ -1,0 +1,14 @@
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\bin\Debug\net7.0\MarsCommerce.Core.deps.json
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\bin\Debug\net7.0\MarsCommerce.Core.runtimeconfig.json
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\bin\Debug\net7.0\MarsCommerce.Core.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\bin\Debug\net7.0\MarsCommerce.Core.pdb
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.csproj.AssemblyReference.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.AssemblyInfoInputs.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.AssemblyInfo.cs
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.csproj.CoreCompileInputs.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\refint\MarsCommerce.Core.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.pdb
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\MarsCommerce.Core.genruntimeconfig.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Core\obj\Debug\net7.0\ref\MarsCommerce.Core.dll

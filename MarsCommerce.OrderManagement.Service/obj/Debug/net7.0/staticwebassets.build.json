@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r+SGImL+4VcVCUrGUARoC1fKywLnDtqiNsLnVAvx0dg=",
+  "Source": "MarsCommerce.OrderManagement.Service",
+  "BasePath": "_content/MarsCommerce.OrderManagement.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

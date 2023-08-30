@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MarsCommerce.UserProfile.Service.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NDuJeFdnOgt1Th0vqrFMc1ydC8zPcsmoBncMq11tRcg=",
+  "Source": "MarsCommerce.Catalog.Service",
+  "BasePath": "_content/MarsCommerce.Catalog.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

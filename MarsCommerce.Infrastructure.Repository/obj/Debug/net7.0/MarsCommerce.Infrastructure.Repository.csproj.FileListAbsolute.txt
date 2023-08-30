@@ -1,0 +1,17 @@
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Infrastructure.Repository.deps.json
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Infrastructure.Repository.runtimeconfig.json
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Infrastructure.Repository.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Infrastructure.Repository.pdb
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Core.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\bin\Debug\net7.0\MarsCommerce.Core.pdb
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.csproj.AssemblyReference.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.AssemblyInfoInputs.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.AssemblyInfo.cs
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.csproj.CopyComplete
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\refint\MarsCommerce.Infrastructure.Repository.dll
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.pdb
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\MarsCommerce.Infrastructure.Repository.genruntimeconfig.cache
+D:\Work Area\MarsCommerce\20230706\MarsCommerce.Infrastructure.Repository\obj\Debug\net7.0\ref\MarsCommerce.Infrastructure.Repository.dll

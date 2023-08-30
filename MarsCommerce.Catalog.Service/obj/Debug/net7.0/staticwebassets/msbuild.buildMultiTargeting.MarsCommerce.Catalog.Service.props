@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MarsCommerce.Catalog.Service.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D7f4t8+n4IV8QJCRTMlkIMSDXezUqRF8EdXQllD/WDA=",
+  "Source": "MarsCommerce.Payment.Service",
+  "BasePath": "_content/MarsCommerce.Payment.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

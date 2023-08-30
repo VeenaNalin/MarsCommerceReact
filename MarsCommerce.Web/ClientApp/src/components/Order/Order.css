@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.card {
+}
+
+.btn-yellow {
+    background-color: orange;
+    color: black
+}
+.btn-right {
+    display: block;
+    margin-left: auto;
+    margin-right: 5px;
+}

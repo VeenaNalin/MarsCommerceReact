@@ -1,0 +1,31 @@
+﻿body {
+}
+
+.custom-file-input {
+    white-space: nowrap;
+}
+
+.custom-Header {
+    padding-bottom: 20px;
+}
+
+.custom-Remove-Button {
+    height: 38px !important;
+    padding: 4px;
+    width: 100px;
+    margin-left: 43px;
+}
+
+.custom-div-remove {
+    margin: 10px;
+    margin-left: 0px;
+}
+
+.custom-image-name {
+    color: red;
+}
+
+.image-size img {
+    width: 170px;
+    height: 150px;
+}
